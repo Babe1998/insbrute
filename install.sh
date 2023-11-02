@@ -11,7 +11,7 @@ sudo apt-get install python3-pip -y
 #requests
 
 echo ""
-echo "[+] Installing requests ..."
+echo "[+]  Installing requests ..."
 echo ""
 pip3 install requests
 
