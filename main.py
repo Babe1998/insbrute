@@ -26,7 +26,7 @@ my_username = input(color.GREEN + '[~] ' + color.CWHITE + 'Enter Your Username: 
 # Code to select Password from pass.txt
 f = open("pass.txt", "r")
 
-#headless browser
+#headless  browser
 
 options = Options()
 options.headless = False
