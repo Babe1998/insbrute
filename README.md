@@ -1,4 +1,4 @@
-# Insbrute
+# cd desktop 
 Simple python script to bruteforce instagram using selenium webdriver
 
 ## Clone and change directory
