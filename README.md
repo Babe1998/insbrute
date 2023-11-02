@@ -4,7 +4,7 @@ Simple python script to bruteforce instagram using selenium webdriver
 ## Clone and change directory
 
 ```
-git clone https://github.com/eternalodball/insbrute
+git clone https://github.com/eternalodball /insbrute
 
 cd insbrute
 ```
